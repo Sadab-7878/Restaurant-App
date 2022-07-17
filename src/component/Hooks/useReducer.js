@@ -17,8 +17,7 @@ const reducer = (state, action) => {
 };
 
 const UseReducer = () => {
-//   const initialData = 10;
-//   const [myNum, setMyNum] = React.useState(initialData);
+
 
 const initialData = 10;
     const[state, dispatch] = useReducer(reducer, initialData);
