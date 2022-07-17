@@ -11,7 +11,7 @@ const useState = () => {
             <span></span>
             <span></span>
             <span></span>
-            Incre
+            Increment
         </div>
         <div className="button2">
             <span></span>
